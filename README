@@ -11,10 +11,15 @@ $3.49 - DS1307+ RTC (8-pin DIP) - http://www.alliedelec.com/search/productdetail
 $1.11 - 32.768kHz Crystal - http://www.alliedelec.com/search/productdetail.aspx?SKU=9950078
 $1.27 - CR1220 3v Battery - http://www.alliedelec.com/search/productdetail.aspx?SKU=8840740
 $1.28 - 20mm Coin Cell Holder - http://www.alliedelec.com/search/productdetail.aspx?SKU=8390273
+-----------
+$7.15
 
 If you want to make this a standalone PCB you will need these as well
 $1.99 - Prototype PCB - http://www.radioshack.com/product/index.jsp?productId=2104052
 $1.95 - Right Angle Headers - http://www.sparkfun.com/products/553
+-----------
+$3.49
+
 
 OPTIONAL
 I chose to put 10K ohm resistors on the SDA and SCL lines to pull them up to Vcc (+5v), but on the Arduino
