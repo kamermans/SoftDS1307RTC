@@ -2,6 +2,11 @@ Readme file for SoftDS1307RTC Library
 
 The SoftDS1307RTC library is provided to demonstrate the Arduino Time library.
 
+You will need the Software I2c library from adafruit:
+http://forums.adafruit.com/viewtopic.php?f=25&t=13722 (look for the file i2c.zip)
+... and the Arduino Time library:
+http://www.arduino.cc/playground/Code/Time
+
 See the TimeRTC_Soft and TimeRTCSet_Soft example sketches for usage
 
 An example circuit is included as well, with PCB layout, schematic and some real pictures.
